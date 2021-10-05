@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "eject",
+			"path": "demo/",
+			"problemMatcher": [],
+			"label": "npm: eject - demo",
+			"detail": "react-scripts eject"
+		}
+	]
+}
